@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mabelpibby.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="red_pibby_down instancia 10000" x="49" y="0" width="623" height="629" frameX="-30" frameY="-46" frameWidth="798" frameHeight="590"/>
+	<SubTexture name="red_pibby_down instancia 10001" x="792" y="0" width="623" height="629" frameX="-42" frameY="0" frameWidth="798" frameHeight="590"/>
+	<SubTexture name="red_pibby_down instancia 10002" x="2295" y="118" width="623" height="629" frameX="-42" frameY="0" frameWidth="798" frameHeight="590"/>
+
+	<SubTexture name="red_pibby_idle instancia 10000" x="0" y="1608" width="815" height="417" pivotX="170.15" pivotY="175.35" frameX="-19" frameY="-88" frameWidth="475" frameHeight="602"/>
+	<SubTexture name="red_pibby_idle instancia 10001" x="0" y="2601" width="815" height="505" frameX="-24" frameY="-62" frameWidth="475" frameHeight="602"/>
+	<SubTexture name="red_pibby_idle instancia 10002" x="0" y="3171" width="815" height="467" frameX="-60" frameY="-59" frameWidth="475" frameHeight="602"/>
+
+	<SubTexture name="red_pibby_left instancia 10000" x="3032" y="158" width="676" height="595" frameX="-34" frameY="-10" frameWidth="614" frameHeight="494"/>
+	<SubTexture name="red_pibby_left instancia 10001" x="633" y="914" width="613" height="636" frameX="0" frameY="-6" frameWidth="614" frameHeight="494"/>
+	<SubTexture name="red_pibby_left instancia 10002" x="1295" y="925" width="613" height="636" frameX="-4" frameY="0" frameWidth="614" frameHeight="494"/>
+
+	<SubTexture name="red_pibby_right instancia 10000" x="966" y="2065" width="815" height="868" pivotX="166.4" pivotY="239.2" frameX="-7" frameY="-27" frameWidth="609" frameHeight="764"/>
+	<SubTexture name="red_pibby_right instancia 10001" x="1854" y="2143" width="1100" height="865" frameX="-4" frameY="-15" frameWidth="609" frameHeight="764"/>
+	<SubTexture name="red_pibby_right instancia 10002" x="968" y="2888" width="1188" height="865" frameX="0" frameY="0" frameWidth="609" frameHeight="764"/>
+
+	<SubTexture name="red_pibby_up instancia 10000" x="1979" y="1040" width="502" height="843" frameX="0" frameY="-3" frameWidth="606" frameHeight="707"/>
+	<SubTexture name="red_pibby_up instancia 10001" x="2516" y="878" width="495" height="1021" frameX="-28" frameY="-3" frameWidth="606" frameHeight="707"/>
+	<SubTexture name="red_pibby_up instancia 10000" x="3059" y="849" width="495" height="1105" frameX="0" frameY="-3" frameWidth="606" frameHeight="707"/>
+</TextureAtlas>
