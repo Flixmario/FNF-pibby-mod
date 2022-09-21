@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bunbun_shadow.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bunbun_shadow instancia 10000" x="844" y="2624" width="824" height="937" pivotX="514.35" pivotY="768.65" frameX="-45" frameY="-206" frameWidth="1733" frameHeight="1924"/>
+	<SubTexture name="bunbun_shadow instancia 10001" x="844" y="2624" width="824" height="937" frameX="-45" frameY="-206" frameWidth="1733" frameHeight="1924"/>
+	<SubTexture name="bunbun_shadow instancia 10002" x="831" y="1688" width="824" height="937" frameX="0" frameY="-184" frameWidth="1733" frameHeight="1924"/>
+	<SubTexture name="bunbun_shadow instancia 10003" x="0" y="2623" width="847" height="868" frameX="0" frameY="-184" frameWidth="1733" frameHeight="1924"/>
+	<SubTexture name="bunbun_shadow instancia 10004" x="0" y="1741" width="829" height="868" frameX="-45" frameY="-139" frameWidth="1733" frameHeight="1924"/>
+	<SubTexture name="bunbun_shadow instancia 10005" x="0" y="867" width="831" height="868" frameX="-25" frameY="-139" frameWidth="1733" frameHeight="1924"/>
+	<SubTexture name="bunbun_shadow instancia 10006" x="0" y="0" width="881" height="868" frameX="-193" frameY="0" frameWidth="1733" frameHeight="1924"/>
+	<SubTexture name="bunbun_shadow instancia 10007" x="0" y="0" width="881" height="868" frameX="-193" frameY="0" frameWidth="1733" frameHeight="1924"/>
+	<SubTexture name="bunbun_shadow instancia 10008" x="0" y="0" width="881" height="868" frameX="-193" frameY="0" frameWidth="1733" frameHeight="1924"/>
+	<SubTexture name="bunbun_shadow instancia 10009" x="0" y="0" width="881" height="868" frameX="-193" frameY="0" frameWidth="1733" frameHeight="1924"/>
+	<SubTexture name="bunbun_shadow instancia 10010" x="0" y="0" width="881" height="868" frameX="-193" frameY="0" frameWidth="1733" frameHeight="1924"/>
+	<SubTexture name="bunbun_shadow instancia 10011" x="0" y="0" width="881" height="868" frameX="-193" frameY="0" frameWidth="1733" frameHeight="1924"/>
+	<SubTexture name="bunbun_shadow instancia 10012" x="0" y="0" width="881" height="868" frameX="-193" frameY="0" frameWidth="1733" frameHeight="1924"/>
+	<SubTexture name="bunbun_shadow instancia 10013" x="0" y="0" width="881" height="868" frameX="-193" frameY="0" frameWidth="1733" frameHeight="1924"/>
+	<SubTexture name="bunbun_shadow instancia 10014" x="0" y="0" width="881" height="868" frameX="-193" frameY="0" frameWidth="1733" frameHeight="1924"/>
+	<SubTexture name="bunbun_shadow instancia 10015" x="0" y="0" width="881" height="868" frameX="-193" frameY="0" frameWidth="1733" frameHeight="1924"/>
+	<SubTexture name="bunbun_shadow instancia 10016" x="0" y="0" width="881" height="868" frameX="-193" frameY="0" frameWidth="1733" frameHeight="1924"/>
+	<SubTexture name="bunbun_shadow instancia 10017" x="0" y="0" width="881" height="868" frameX="-193" frameY="0" frameWidth="1733" frameHeight="1924"/>
+	<SubTexture name="bunbun_shadow instancia 10018" x="0" y="0" width="881" height="868" frameX="-193" frameY="0" frameWidth="1733" frameHeight="1924"/>
+	<SubTexture name="bunbun_shadow instancia 10019" x="0" y="0" width="881" height="868" frameX="-193" frameY="0" frameWidth="1733" frameHeight="1924"/>
+	<SubTexture name="bunbun_shadow instancia 10020" x="0" y="0" width="881" height="868" frameX="-193" frameY="0" frameWidth="1733" frameHeight="1924"/>
+	<SubTexture name="bunbun_shadow instancia 10021" x="0" y="0" width="881" height="868" frameX="-193" frameY="0" frameWidth="1733" frameHeight="1924"/>
+	<SubTexture name="bunbun_shadow instancia 10022" x="0" y="0" width="881" height="868" frameX="-193" frameY="0" frameWidth="1733" frameHeight="1924"/>
+	<SubTexture name="bunbun_shadow instancia 10023" x="0" y="0" width="881" height="868" frameX="-193" frameY="0" frameWidth="1733" frameHeight="1924"/>
+	<SubTexture name="bunbun_shadow instancia 10024" x="0" y="0" width="881" height="868" frameX="-193" frameY="0" frameWidth="1733" frameHeight="1924"/>
+</TextureAtlas>
