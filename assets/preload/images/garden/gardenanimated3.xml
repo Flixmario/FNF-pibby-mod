@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gardenanimated3.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="hand_zombot instancia 10000" x="0" y="0" width="573" height="882" pivotX="-91.05" pivotY="772.1" frameX="0" frameY="-274" frameWidth="690" frameHeight="1158"/>
+</TextureAtlas>
