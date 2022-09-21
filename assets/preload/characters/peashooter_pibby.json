@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				278,
+				15
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Whitty idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				268,
+				-54
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "whitty sing note right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				373,
+				98
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Whitty Sing Note LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				364,
+				-116
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Whitty Sing Note DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				297,
+				238
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Whitty Sing Note UP",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/peashooter_pibby",
+	"position": [
+		200,
+		-60
+	],
+	"healthicon": "pea_icon_pibby",
+	"flip_x": false,
+	"healthbar_colors": [
+		133,
+		11,
+		60
+	],
+	"camera_position": [
+		-290,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 1.6
+}
